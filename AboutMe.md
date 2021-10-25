@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhayupawar
 - 👀 I’m interested in Android,Blockchain and healthcare tech.
 - 🌱 I’m currently learning Android Development
-- 📫 How to reach me pawarabhi513@gmail.com
+- 📫 You can reach me pawarabhi513@gmail.com
 
 
 <!---
